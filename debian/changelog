@@ -1,0 +1,6 @@
+encryptpad (0.5.0.3-denios1) testing; urgency=medium
+
+  * Initial version for denios
+  * New upstream version 0.5.0.3
+
+ -- Denis Maslo <denios-linux@proton.me>  Tue, 07 Mar 2023 18:39:49 +0100
